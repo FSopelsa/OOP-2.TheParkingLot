@@ -53,6 +53,8 @@ classDiagram
     }
 ```
 
+---
+
 ## How To Run
 
 ### Build the project:
